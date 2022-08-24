@@ -1,2 +1,2 @@
 # C-Basics
-Basic Programs in C-Language
+In this repository, I'll be posting some basic programs in C-Language.
