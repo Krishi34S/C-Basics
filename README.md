@@ -1,2 +1,51 @@
 # C-Basics
 In this repository, I'll be posting some basic programs in C-Language.
+
+
+[**Conversion of termperature from Fahrenheit to Celcius or vice-versa**](https://github.com/Rashob/College_Works/blob/master/CONVERSION_OF_TEMP.C)
+<br>
+<br>
+
+[**Conversion of a decimal number into binary number**](https://github.com/Rashob/College_Works/blob/master/CONVERSION_OF_TEMP.C)
+<br>
+<br>
+
+[**C Program to find the eligibility for a driver's insurance**](https://github.com/Rashob/College_Works/blob/master/Drivers_insurance.c)
+<br>
+<br>
+
+[**C Program to find the biggest number using nested if**](https://github.com/Rashob/College_Works/blob/master/Drivers_insurance.c)
+
+<br>
+<br>
+
+## **ARRAYS**
+<br>
+
+- [**C Program to find the sum and average using array**](https://github.com/Rashob/College_Works/blob/master/ARRAY/array(sum%20and%20average%20).c)
+<br>
+
+- [**C Program to find biggest number using array**](ARRAY/biggestno.c)
+<br>
+
+- [**C Program to find smallest using array**](ARRAY/smallest.c)
+<br>
+
+- [**C Program to find the flbonacci number using array**](ARRAY/flbonacci.c)
+<br>
+<br>
+
+## **STRINGS**
+<br>
+
+- [**C Program to read string**](STRING/readstring.c)
+
+- [**C Program to copy one string to another string**](STRING/cpstring.c)
+
+- [**C program to find the length of the string**](STRING/Lengthofstring.c)
+
+- [**C program to reverse the order of the string**](STRING/revsrtng.c)
+
+- [**C program to count  the number of vowels used in the Sentence**](STRING/vowel.c)
+
+- [**C program to concatinate (add) two strings**](STRING/concatination.c)
